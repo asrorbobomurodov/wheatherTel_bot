@@ -1,0 +1,123 @@
+{
+    "location": {
+        "city": "Karakulino",
+        "region": "Udmurtiya Republic",
+        "woeid": 2016523,
+        "country": "Russia",
+        "lat": 56.012051,
+        "long": 53.70108,
+        "timezone_id": "Europe/Samara"
+    },
+    "current_observation": {
+        "pubDate": 1703215228,
+        "wind": {
+            "chill": 20,
+            "direction": "SW",
+            "speed": 20
+        },
+        "atmosphere": {
+            "humidity": 80,
+            "visibility": 6.03,
+            "pressure": 1009.1
+        },
+        "astronomy": {
+            "sunrise": "7:54 AM",
+            "sunset": "2:55 PM"
+        },
+        "condition": {
+            "temperature": 35,
+            "text": "Cloudy",
+            "code": 26
+        }
+    },
+    "forecasts": [
+        {
+            "day": "Fri",
+            "date": 1703260800,
+            "high": 36,
+            "low": 26,
+            "text": "Cloudy",
+            "code": 26
+        },
+        {
+            "day": "Sat",
+            "date": 1703347200,
+            "high": 36,
+            "low": 25,
+            "text": "Rain",
+            "code": 12
+        },
+        {
+            "day": "Sun",
+            "date": 1703433600,
+            "high": 34,
+            "low": 27,
+            "text": "Partly Cloudy",
+            "code": 30
+        },
+        {
+            "day": "Mon",
+            "date": 1703520000,
+            "high": 31,
+            "low": 24,
+            "text": "Sleet",
+            "code": 18
+        },
+        {
+            "day": "Tue",
+            "date": 1703606400,
+            "high": 27,
+            "low": 23,
+            "text": "Cloudy",
+            "code": 26
+        },
+        {
+            "day": "Wed",
+            "date": 1703692800,
+            "high": 29,
+            "low": 11,
+            "text": "Drizzle",
+            "code": 9
+        },
+        {
+            "day": "Thu",
+            "date": 1703779200,
+            "high": 12,
+            "low": 3,
+            "text": "Sleet",
+            "code": 18
+        },
+        {
+            "day": "Fri",
+            "date": 1703865600,
+            "high": 18,
+            "low": 15,
+            "text": "Cloudy",
+            "code": 26
+        },
+        {
+            "day": "Sat",
+            "date": 1703952000,
+            "high": 19,
+            "low": 14,
+            "text": "Drizzle",
+            "code": 9
+        },
+        {
+            "day": "Sun",
+            "date": 1704038400,
+            "high": 15,
+            "low": -14,
+            "text": "Sleet",
+            "code": 18
+        },
+        {
+            "day": "Mon",
+            "date": 1704124800,
+            "high": 29,
+            "low": 19,
+            "text": "Cloudy",
+            "code": 26
+        }
+    ]
+}
